@@ -1,6 +1,6 @@
 {
     "projectName": "mlops-e2e",
-    "repoType": "git1",
+    "repoType": "git",
     "git": {
         "githubConnectionArn": "arn:aws:codestar-connections:us-east-1:343159543678:connection/c6cc4620-1ff5-4a1c-af26-1c1c37c41ddf",
         "githubRepoOwner": "",
